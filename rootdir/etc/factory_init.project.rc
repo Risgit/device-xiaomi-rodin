@@ -1,0 +1,2 @@
+# factory_init.project.rc is phased out already. All usages of factory_init.project.rc is implemented by meta_init_project.rc now.
+# Please write your factory init codes in meta_init.project.rc
